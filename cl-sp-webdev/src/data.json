@@ -1,0 +1,41 @@
+{
+  "New Moon": {
+    "image": "/images/new-moon.jpg",
+    "description": "This is the invisible phase of the Moon, with the illuminated side of the Moon facing the Sun and the night side facing Earth. In this phase, the Moon is in the same part of the sky as the Sun and rises and sets with the Sun. Not only is the illuminated side facing away from the Earth, it’s also up during the day! Remember, in this phase, the Moon doesn’t usually pass directly between Earth and the Sun, due to the inclination of the Moon’s orbit. It only passes near the Sun from our perspective on Earth."
+  },
+
+  "Waxing Crescent": {
+    "image": "/images/waxing-crescent.jpg",
+    "description": "The Moon is less than one-half illuminated by the Sun but less than one-half illuminated. The fraction of the Moon’s disk that is illuminated is increasing. Waxing means it’s growing. This crescent will grow daily until it reaches the First Quarter phase."
+  },
+
+  "First Quarter": {
+    "image": "/images/first-quarter.jpg",
+    "description": "Exactly half of the Moon is illuminated, and the Moon looks like a half-circle. It is called 'First Quarter' because it is one-quarter of the way through its orbit. The right half of the Moon is visible in the Northern Hemisphere (left half in the Southern Hemisphere)."
+  },
+
+  "Waxing Gibbous": {
+    "image": "/images/waxing-gibbous.jpg",
+    "description": "More than one-half of the Moon is illuminated by the Sun but not completely full. The illuminated fraction continues to grow larger each day until the Full Moon."
+  },
+
+  "Full Moon": {
+    "image": "/images/full-moon.webp",
+    "description": "The entire face of the Moon is illuminated by the Sun, and it appears as a complete circle in the sky. The Moon is opposite the Sun in the sky, rising when the Sun sets and setting when the Sun rises."
+  },
+
+  "Waning Gibbous": {
+    "image": "/images/waning-gibbuos.webp",
+    "description": "More than half of the Moon is illuminated, but the illuminated part is decreasing. Waning means shrinking. The Moon is moving toward the Third Quarter."
+  },
+
+  "Last Quarter": {
+    "image": "/images/third-quarter.webp",
+    "description": "Also called Third Quarter. Exactly half of the Moon is illuminated again, but the opposite side from the First Quarter. The left half of the Moon is visible in the Northern Hemisphere (right half in the Southern Hemisphere)."
+  },
+
+  "Waning Crescent": {
+    "image": "/images/waxing-crescent.jpg",
+    "description": "Less than half of the Moon is illuminated, and the fraction is decreasing. The crescent gets thinner each day until the Moon disappears back into the New Moon phase, starting the cycle again."
+  }
+}
